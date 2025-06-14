@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola GUSGUS - CI-CD!! - Hoy es 14 de Junio de 2025 16:34 PM  " /></h1>
+                <h1><h:outputText value="Hola GUSGUS - CI-CD!! - Hoy es 14 de Junio de 2025 17:05 PM  " /></h1>
                 <br/>AM
                 <h:commandLink action="#{product.listSetup}" value="Todos los Productos" id="linkProds" />
                 <br/>
