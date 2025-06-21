@@ -43,4 +43,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: secretwars007/cicddockerimagegithubactions2025
+        tags: secretwars007/cicddockerimagegithubactions20250620
