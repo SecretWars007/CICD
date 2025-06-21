@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola GUSGUS - CI-CD!! - Hoy es 16 de Junio de 2025 21:37 PM - DOCKERS " /></h1>
+                <h1><h:outputText value="Hola GUSGUS - CI-CD!! - Hoy es 20 de Junio de 2025 20:07 PM - docker github actions " /></h1>
                 <br/>AM
                 <h:commandLink action="#{product.listSetup}" value="Todos los Productos" id="linkProds" />
                 <br/>
